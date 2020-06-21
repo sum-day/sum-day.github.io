@@ -2,8 +2,9 @@
 
 * [Introduction](README.md)
 
-### Guide
+## Guide
 * [Atomic Design Guide For SUM-DAY Devlopers](section1/post1.md)
 
-### Reference
+## Reference
 * [참조사이트](section2/post1.md)
+
